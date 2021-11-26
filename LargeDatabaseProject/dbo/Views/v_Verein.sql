@@ -1,5 +1,6 @@
-﻿/****** Skript für SelectTopNRows-Befehl aus SSMS ******/
-create view v_Verein as
+﻿
+/****** Skript für SelectTopNRows-Befehl aus SSMS ******/
+CREATE view [dbo].[v_Verein] as
 SELECT [ID_Verein]
       ,[Name]
       ,[ID_Liga]

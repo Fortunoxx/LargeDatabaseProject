@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [util_user]
+    WITH PASSWORD = N'derky>Hmsukh`mveuVtYlq|vmsFT7_&#$!~<o=cejt?Ue{he', SID = 0x59BD6A1D8A4B8C4B97ABD3C657600FB5, DEFAULT_DATABASE = [tempdb], DEFAULT_LANGUAGE = [Deutsch], CHECK_POLICY = OFF;
+
