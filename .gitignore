@@ -15,7 +15,12 @@ bld/
 
 # User-specific files
 *.suo
+*.user
 
 # Visual Studio 2015 cache/options directory
 .vs/
 *.log
+
+# what is this?
+*.jfm
+*.dbmdl
