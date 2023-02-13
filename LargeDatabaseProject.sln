@@ -15,6 +15,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Utilities", "Utilities\Util
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Test_varchar", "Test_varchar\Test_varchar.sqlproj", "{1023BC2A-E9C7-4421-9354-9EC0784D42E6}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StackOverflow_Light", "StackOverflow_Light\StackOverflow_Light.sqlproj", "{67895820-D792-48F0-B4BB-3714B85FEEEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,12 @@ Global
 		{1023BC2A-E9C7-4421-9354-9EC0784D42E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1023BC2A-E9C7-4421-9354-9EC0784D42E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1023BC2A-E9C7-4421-9354-9EC0784D42E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67895820-D792-48F0-B4BB-3714B85FEEEC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
